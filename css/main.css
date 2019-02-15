@@ -70,10 +70,16 @@ h4{
 	font-family: Montserrat;
 	font-weight: 400;
 }
-.portfolio {
+.title-portfolio{
+	font-weight: bold;
+
+}
+.portfolio-container {
 	display: flex;
 	justify-content: center;
 	width: 100%;
+	padding-top: 95px;
+	padding-bottom: 95px;
 
 }
 .images-container{
@@ -87,17 +93,39 @@ img{
 }
 .about{
 	background-color:  #18bc9c;
+	margin-top: 0px;
+	padding-top: 95px;
+	padding-bottom: 95px;
+}
+.title-about{
+	color:whitesmoke;
+	font-weight: bold;
 }
 .container-about{
 	display:flex;
-	width: 42%;
+	width: 50%;
 	margin: 0 auto;
+	color: whitesmoke;
 }
-
 
 span{
 	text-align: left;
 }
+.content-about {
+	font-weight: 100;
+	font-size: 140%;
+	color: whitesmoke;
+}
+button{
+	font-weight: 100;
+	font-size: 140%;
+	color: whitesmoke;
+	text-align: center;
+	align-content: center;
+
+}
+
+
 h4{
 	margin: 0;
 	color:#2c3e50;
