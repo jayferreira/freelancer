@@ -60,6 +60,31 @@ h3 {
 	font-size: 171%;
 	font-weight: 300;
 }
+h4{
+	color: #2c3e50;
+	font-size: 300%;
+	text-align: center;
+	font-family: Montserrat;
+	font-weight: 400;
+}
+.portfolio {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.images-container{
+	text-align: center;
+}
+
+.portfolio-img {
+	width: 30%;
+}
+
+footer{
+	background-color: #212529;
+}
+
+
 
 
 
